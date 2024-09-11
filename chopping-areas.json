@@ -1,0 +1,121 @@
+[
+  {
+    "areaName": "Varrock west (Oak)",
+    "x": 3172,
+    "y": 3424,
+    "x2": 3158,
+    "y2": 3370
+  },
+  {
+    "areaName": "Varrock east (Tree)",
+    "x": 3271,
+    "y": 3457,
+    "x2": 3285,
+    "y2": 3430
+  },
+  {
+    "areaName": "Rimmington (Willow)",
+    "x": 2958,
+    "y": 3201,
+    "x2": 2977,
+    "y2": 3190
+  },
+  {
+    "areaName": "Mudskipper (Willow)",
+    "x": 3034,
+    "y": 3173,
+    "x2": 2991,
+    "y2": 3159
+  },
+  {
+    "areaName": "Draynor (Willow)",
+    "x": 3082,
+    "y": 3238,
+    "x2": 3090,
+    "y2": 3225
+  },
+  {
+    "areaName": "Lumbridge (Tree/Oak/Yew)",
+    "x": 3200,
+    "y": 3232,
+    "x2": 3159,
+    "y2": 3207
+  },
+  {
+    "areaName": "Seers bank (Maple)",
+    "x": 2733,
+    "y": 3504,
+    "x2": 2720,
+    "y2": 3498
+  },
+  {
+    "areaName": "Seers south (Maple)",
+    "x": 2731,
+    "y": 3482,
+    "x2": 2719,
+    "y2": 3474
+  },
+  {
+    "areaName": "Sorc. tower (Magic)",
+    "x": 2697,
+    "y": 3400,
+    "x2": 2707,
+    "y2": 3395
+  },
+  {
+    "areaName": "Ranging guild (Magic)",
+    "x": 2688,
+    "y": 3430,
+    "x2": 2693,
+    "y2": 3422
+  },
+  {
+    "areaName": "Castle wars (Teak)",
+    "x": 2332,
+    "y": 3050,
+    "x2": 2338,
+    "y2": 3046
+  },
+  {
+    "areaName": "Kharazi Jungle (Teak)",
+    "x": 2832,
+    "y": 2914,
+    "x2": 2841,
+    "y2": 2902
+  },
+  {
+    "areaName": "Woodcutting guild (Magic)",
+    "x": 1577,
+    "y": 3494,
+    "x2": 1583,
+    "y2": 3481
+  },
+  {
+    "areaName": "Woodcutting guild (Yew)",
+    "x": 1582,
+    "y": 3503,
+    "x2": 1596,
+    "y2": 3479
+  },
+  {
+    "areaName": "Woodcutting guild (Maple)",
+    "x": 1609,
+    "y": 3497,
+    "x2": 1619,
+    "y2": 3489
+  },
+  {
+    "areaName": "Woodcutting guild (Oak)",
+    "x": 1617,
+    "y": 3515,
+    "x2": 1636,
+    "y2": 3506
+  },
+  {
+    "areaName": "Woodcutting guild (Willow)",
+    "x": 1627,
+    "y": 3505,
+    "x2": 1643,
+    "y2": 3493
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "itemId": 1351,
+    "itemName": "Bronze axe",
+    "fromLevel": 1,
+    "buyPrice": 500,
+    "attackLevel": 1,
+    "members": false
+  },
+  {
+    "itemId": 1349,
+    "itemName": "Iron axe",
+    "fromLevel": 1,
+    "buyPrice": 500,
+    "attackLevel": 1,
+    "members": false
+  },
+  {
+    "itemId": 1353,
+    "itemName": "Steel axe",
+    "fromLevel": 6,
+    "buyPrice": 500,
+    "attackLevel": 5,
+    "members": false
+  },
+  {
+    "itemId": 1361,
+    "itemName": "Black axe",
+    "fromLevel": 11,
+    "buyPrice": 500,
+    "attackLevel": 10,
+    "members": false
+  },
+  {
+    "itemId": 1355,
+    "itemName": "Mithril axe",
+    "fromLevel": 21,
+    "buyPrice": 1000,
+    "attackLevel": 20,
+    "members": false
+  },
+  {
+    "itemId": 1357,
+    "itemName": "Adamant axe",
+    "fromLevel": 31,
+    "buyPrice": 1000,
+    "attackLevel": 30,
+    "members": false
+  },
+  {
+    "itemId": 1359,
+    "itemName": "Rune axe",
+    "fromLevel": 41,
+    "buyPrice": 8000,
+    "attackLevel": 40,
+    "members": false
+  },
+  {
+    "itemId": 6739,
+    "itemName": "Dragon axe",
+    "fromLevel": 61,
+    "buyPrice": 70000,
+    "attackLevel": 60,
+    "members": true
+  }
+]
